@@ -1,0 +1,11 @@
+.event-name{
+   width:500px;
+   color:rgb(51, 51, 17);
+   font-size:17px;
+   padding-left: 170px;
+   cursor: pointer;
+}
+img{
+    margin-top: 15px;
+    cursor: pointer;
+}

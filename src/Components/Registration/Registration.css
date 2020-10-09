@@ -1,0 +1,24 @@
+.registration-page{
+    margin:5vh 20vw 10vh 20vw;
+}
+.registration-button, .registration-done, .register-to-login{
+    border: none;
+    width:27vw;
+    background-color:black;
+    color:white;
+    text-align: center;
+    border-radius:4px;
+    height: 5.3vh;
+}
+.registration-done{
+ margin-left: 4.6vw;
+   background-color:rgb(1, 140, 1);
+}
+.register-to-login{
+    background-color:rgb(1, 140, 1);
+    padding: 1vh 7vw 1vh 7vw;
+}
+.register-to-login:hover{
+    text-decoration: none;
+    color: white;
+}

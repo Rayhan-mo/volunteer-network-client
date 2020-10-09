@@ -1,0 +1,12 @@
+.login-page{
+    margin:5vh 30vw 0 30vw;
+}
+.google-login{
+    margin-left: 12.2vw;
+    border:none;
+    background-color:rgb(208, 178, 58);
+    width:20vw;
+    height: 5.8vh;
+    border-radius:4px;
+    color: rgb(43, 43, 43);
+}

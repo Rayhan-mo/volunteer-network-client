@@ -1,0 +1,9 @@
+.row{
+    overflow-x: hidden;
+    overflow-y:hidden;
+    width:100%;
+    padding-right: 15vw;
+}
+.home-search{
+    text-align: center;
+}
